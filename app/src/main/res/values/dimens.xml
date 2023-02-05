@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Font -->
+    <dimen name="font_size_small">16sp</dimen>
+    <dimen name="font_size_medium">20sp</dimen>
+
+    <!-- Layout margin -->
+    <dimen name="margin_nano">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_small">12dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_large_medium">24dp</dimen>
+    <dimen name="margin_extra_large">32dp</dimen>
+
+    <!-- Layout padding -->
+    <dimen name="padding_nano">2dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_small_medium">6dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_medium_small">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_large_small">20dp</dimen>
+    <dimen name="padding_large_medium">24dp</dimen>
+    <dimen name="padding_extra_large">32dp</dimen>
+
+    <!-- Layout width -->
+    <dimen name="login_image_width">90dp</dimen>
+
+
+</resources>
